@@ -1,0 +1,12 @@
+{
+	"version": "1.0.0",
+	"description": "A CouchDB driver for node.js.",
+	"keywords": ["couchdb", "couch", "db", "couch db", "driver"],
+	"homepage": "https://github.com/dready92/ncouch",
+	"license": "GPL",
+	"files": "ncouch.js",
+	"main": "./ncouch.js",
+	"dependencies": {"debug": "*"},
+	"engines" : { "node" : ">=0.4" }
+	
+}
