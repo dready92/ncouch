@@ -1,4 +1,5 @@
 {
+	"name": "ncouch",
 	"version": "1.0.1",
 	"description": "A CouchDB driver for node.js.",
 	"keywords": ["couchdb", "couch", "db", "couch db", "driver"],
